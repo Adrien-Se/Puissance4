@@ -1,6 +1,6 @@
 /***********************************************************************************************
  * @file SaveAndSettings.c
- * @author MATTHEY-VINTAR Alexis (28605054 - DM Meca/EEA), PETARD Adrien (3809346 - DM Meca/EEA)
+ * @author MATTHEY-VINTAR Alexis, PETARD Adrien
  * @brief 
  * @version 0.1
  * @date 22 - 12 - 2020
